@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bards Crossing</title>
+    <link>http://localhost:38857/</link>
+    <description>Recent content on Bards Crossing</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:38857/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Bards Crossing</title>
+      <link>http://localhost:38857/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:38857/about/</guid>
+      <description>&lt;p&gt;About Bards Crossing&lt;/p&gt;&#xA;&lt;p&gt;Bards Crossing is the 55+ section within the master-planned community of Evermoor in Rosemount, MN. Active adults will enjoy a low-maintenance lifestyle along with well-appointed amenities and activities. This close-knit neighborhood of just 55 units allows residents to get to know their neighbors easily. Bards Crossing of Evermoor provides luxurious living within a quiet and welcoming setting that active adult homebuyers seek in Central Minnesota.&lt;/p&gt;&#xA;&lt;p&gt;Residents enjoy a maintenance-free lifestyle in this active adult community. A monthly homeowners’ association fee (HOA) includes snow removal, access to amenities, common area upkeep, gas heating, high-speed internet as well as DirecTV Stream Services with Choice Programming. Thanks to the HOA taking care of tedious exterior home chores, adults have more time to do as they please. Homeowners can attend special events in the gathering room, play billiards in the pool room, play cards, or create new arts and crafts in the craft room or the woodshop. Or they can just relax with a good book in the library. Making friends is easy and the options for socialization are endless in this vibrant 55+ community.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Amenities</title>
+      <link>http://localhost:38857/amenity/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:38857/amenity/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Bards Crossing amenities&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;A rich lineup of amenities are found in this 55+ community. This is apparent the moment you enter the secured building and step into a &lt;strong&gt;grand foyer&lt;/strong&gt; which welcomes you to Bards Crossing. The amenity center features a &lt;strong&gt;gathering room&lt;/strong&gt; with a full kitchen and seating for up to 50 people. This space is used for hosting Bards social gatherings and is available for residents to rent for private parties or holiday events. The &lt;strong&gt;billiards room&lt;/strong&gt; and &lt;strong&gt;card tables&lt;/strong&gt; are perfect areas for fun game nights. Homeowners can explore their creative side by visiting the &lt;strong&gt;crafts room&lt;/strong&gt; and &lt;strong&gt;woodworking shop&lt;/strong&gt;.&#xA;&lt;img src=&#34;http://localhost:38857/exerciserm.jpg&#34; alt=&#34;Exercise&#34;&gt;&#xA;Residents enjoy a quiet space to read in the &lt;strong&gt;library&lt;/strong&gt;, which features a numerous collection of fiction &amp;amp; non-fiction books and magazines. The &lt;strong&gt;exercise room&lt;/strong&gt; is a great spot for your workout routine. A &lt;strong&gt;car wash bay&lt;/strong&gt; is available in the &lt;strong&gt;underground garage&lt;/strong&gt;, making it convenient to keep your vehicle clean all year round.&#xA;Outdoors, residents explore beautifully landscaped grounds and natural spaces with easy access to miles of paved &lt;strong&gt;walking and biking trails&lt;/strong&gt;.&#xA;On the days when you want to stay inside to watch a movie, catch the news, or browse your favorite websites, Bards Crossing offers high-speed &lt;strong&gt;internet&lt;/strong&gt; and &lt;strong&gt;DirecTV Stream TVi&lt;/strong&gt; services.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Condos for sale</title>
+      <link>http://localhost:38857/sale/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:38857/sale/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Condos currently for sale&lt;/strong&gt;&#xA;&lt;img src=&#34;http://localhost:38857/sell-my-condo.jpg&#34; alt=&#34;For Sale&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>http://localhost:38857/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:38857/contact/</guid>
+      <description>&lt;p&gt;For additional information, please contact:&#xA;Bards Crossing homeowners association at 651-456-8418 ext 1&#xA;or email &lt;a href=&#34;mailto:info@bardscrossing.org&#34;&gt;info@bardscrossing.org&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Bards Crossing is located at 13670 Carrach Avenue, Rosemount, Minnesota.&#xA;[embed map here]&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Floor Plans</title>
+      <link>http://localhost:38857/floors/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:38857/floors/</guid>
+      <description>&lt;p&gt;Bards floor plans&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

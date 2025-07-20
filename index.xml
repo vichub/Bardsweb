@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bards Crossing</title>
+    <link>https://vichub.github.io/</link>
+    <description>Recent content on Bards Crossing</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://vichub.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Bards Crossing</title>
+      <link>https://vichub.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vichub.github.io/about/</guid>
+      <description>&lt;p&gt;About Bards Crossing&lt;/p&gt;&#xA;&lt;p&gt;Bards Crossing is the 55+ section within the master-planned community of Evermoor in Rosemount, MN. Active adults will enjoy a low-maintenance lifestyle along with well-appointed amenities and activities. This close-knit neighborhood of just 55 units allows residents to get to know their neighbors easily. Bards Crossing of Evermoor provides luxurious living within a quiet and welcoming setting that active adult homebuyers seek in Central Minnesota.&lt;/p&gt;&#xA;&lt;p&gt;Residents enjoy a maintenance-free lifestyle in this active adult community. A monthly homeowners’ association fee (HOA) includes snow removal, access to amenities, common area upkeep, gas heating, high-speed internet as well as DirecTV Stream Services with Choice Programming. Thanks to the HOA taking care of tedious exterior home chores, adults have more time to do as they please. Homeowners can attend special events in the gathering room, play billiards in the pool room, play cards, or create new arts and crafts in the craft room or the woodshop. Or they can just relax with a good book in the library. Making friends is easy and the options for socialization are endless in this vibrant 55+ community.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Amenities</title>
+      <link>https://vichub.github.io/amenity/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vichub.github.io/amenity/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Bards Crossing amenities&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Condos for sale</title>
+      <link>https://vichub.github.io/sale/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vichub.github.io/sale/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Condos currently for sale&lt;/strong&gt;&#xA;&lt;img src=&#34;https://vichub.github.io/sell-my-condo.jpg&#34; alt=&#34;For Sale&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>https://vichub.github.io/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vichub.github.io/contact/</guid>
+      <description>&lt;p&gt;For additional information, please contact:&#xA;Bards Crossing homeowners association at 651-456-8418 ext 1&#xA;or email &lt;a href=&#34;mailto:info@bardscrossing.org&#34;&gt;info@bardscrossing.org&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Bards Crossing is located at 13670 Carrach Avenue, Rosemount, Minnesota.&#xA;[embed map here]&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Floor Plans</title>
+      <link>https://vichub.github.io/floors/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vichub.github.io/floors/</guid>
+      <description>&lt;p&gt;Bards floor plans&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
