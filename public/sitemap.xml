@@ -2,20 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:38857/about/</loc>
+    <loc>https://bards.notavailableto.work/about/</loc>
   </url><url>
-    <loc>http://localhost:38857/amenity/</loc>
+    <loc>https://bards.notavailableto.work/amenity/</loc>
   </url><url>
-    <loc>http://localhost:38857/</loc>
+    <loc>https://bards.notavailableto.work/</loc>
   </url><url>
-    <loc>http://localhost:38857/categories/</loc>
+    <loc>https://bards.notavailableto.work/categories/</loc>
   </url><url>
-    <loc>http://localhost:38857/sale/</loc>
+    <loc>https://bards.notavailableto.work/sale/</loc>
   </url><url>
-    <loc>http://localhost:38857/contact/</loc>
+    <loc>https://bards.notavailableto.work/contact/</loc>
   </url><url>
-    <loc>http://localhost:38857/floors/</loc>
+    <loc>https://bards.notavailableto.work/floors/</loc>
   </url><url>
-    <loc>http://localhost:38857/tags/</loc>
+    <loc>https://bards.notavailableto.work/tags/</loc>
   </url>
 </urlset>

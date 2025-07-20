@@ -21,5 +21,5 @@ For additional information, please contact:
 Bards Crossing Homeowners Association at 651-456-8418 ext 1 or info@bardscrossing.org
 Bards Crossing is located at 13670 Carrach Avenue, Rosemount, Minnesota.
 
-Bards Crossing – A Great Place to Call Home
+***Bards Crossing – A Great Place to Call Home***
 
